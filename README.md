@@ -7,6 +7,16 @@
 
 ---
 
+## 📌 Table of Contents
+- [About Me](#hi-im-youssef-atef-joe-)
+- [Tech Stack](#-tech-stack)
+- [Projects](#-highlight-projects)
+- [Currently Learning](#-currently-learning)
+- [Contact](#-lets-connect)
+- [GitHub Stats](#-github-stats)
+
+---
+
 ### 💻 Tech Stack
 
 - **Languages**: TypeScript, JavaScript
@@ -19,14 +29,32 @@
 
 ### 🚀 Highlight Projects
 
-- 🧓 **Dar El Rahma** – Senior Care Demo Web App  
-  <sub>Modern UI for an Egyptian senior care home.</sub>
+#### 🧓 Dar El Rahma – Senior Care Demo Web App  
+> Modern UI for an Egyptian senior care home.
 
-- 🏢 **Saudi Engineering Office** – Real Client Website  
-  <sub>Responsive, fast, and SEO-optimized company website.</sub>
+📸 *[Add screenshot here]*
 
-- ⚙️ **Skillzaar** *(WIP)* – Egyptian Learning Platform  
-  <sub>From planning to microservice backend – all done by me.</sub>
+---
+
+#### 🏢 Saudi Engineering Office – Real Client Website  
+> Responsive, fast, and SEO-optimized company website.
+
+📸 *[Add screenshot here]*
+
+---
+
+#### ⚙️ Skillzaar (WIP) – Egyptian Learning Platform  
+> From planning to microservice backend – all done by me.
+
+📸 *[Add screenshot here]*
+
+---
+
+### 📚 Currently Learning
+
+- Microservices Architecture
+- Express.js for scalable APIs
+- i18next for multilingual apps
 
 ---
 
@@ -59,3 +87,10 @@
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=thyrexdev&theme=tokyo-night" alt="GitHub Activity Graph" />
 </p>
+
+---
+
+> “I believe great software is built when design meets function — that's why I care about every detail, from the pixel to the endpoint.”
+
+---
+

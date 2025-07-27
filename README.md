@@ -19,29 +19,19 @@
 
 ### 💻 Tech Stack
 
-#### 🧠 Languages
-- TypeScript
-- JavaScript
+<p align="left">
+  <img src="https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/-Next.js-000000?style=flat&logo=next.js" />
+  <img src="https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/-Tailwind%20CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white" />
+  <img src="https://img.shields.io/badge/-shadcn/ui-DD0031?style=flat&logo=storybook&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Prisma-2D3748?style=flat&logo=prisma&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Zustand-000?style=flat&logo=react&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Vercel-000000?style=flat&logo=vercel&logoColor=white" />
+</p>
 
-#### ⚙️ Frameworks & Libraries
-- Next.js
-- React
-- Express (in progress)
-
-#### 🎨 Styling & UI
-- Tailwind CSS
-- shadcn/ui
-
-#### 🛠️ Backend & Database
-- Supabase
-- Prisma
-
-#### 🧰 Tools & Utilities
-- Zustand (state management)
-- Zod (validation)
-- i18next (internationalization - learning)
-- Git & GitHub
-- Vercel (deployment)
 
 ---
 

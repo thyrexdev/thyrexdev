@@ -19,11 +19,29 @@
 
 ### 💻 Tech Stack
 
-- **Languages**: TypeScript, JavaScript
-- **Frameworks**: Next.js, React
-- **Styling**: Tailwind CSS, shadcn/ui
-- **Backend**: Supabase, Prisma, Express (in progress)
-- **Tools**: Git, Vercel, Zustand, Zod, i18next (learning)
+#### 🧠 Languages
+- TypeScript
+- JavaScript
+
+#### ⚙️ Frameworks & Libraries
+- Next.js
+- React
+- Express (in progress)
+
+#### 🎨 Styling & UI
+- Tailwind CSS
+- shadcn/ui
+
+#### 🛠️ Backend & Database
+- Supabase
+- Prisma
+
+#### 🧰 Tools & Utilities
+- Zustand (state management)
+- Zod (validation)
+- i18next (internationalization - learning)
+- Git & GitHub
+- Vercel (deployment)
 
 ---
 

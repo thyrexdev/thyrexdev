@@ -1,6 +1,8 @@
 <h1 align="center">Hi, I'm Youssef Atef 👋</h1>
 
-![](https://komarev.com/ghpvc/?username=thyrexdev&style=flat-square)
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=thyrexdev&style=flat-square&color=blue" />
+</p>
 
 <h3 align="center">
 Backend-Focused Full Stack Engineer • Node.js • TypeScript • Microservices

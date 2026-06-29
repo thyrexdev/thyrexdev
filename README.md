@@ -128,7 +128,6 @@ A production-ready freelance marketplace designed for scalability and reliabilit
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=thyrexdev&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
 
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thyrexdev&layout=compact&theme=tokyonight&hide_border=true"/>
 

@@ -1,11 +1,13 @@
 <h1 align="center">Hi, I'm Youssef Atef 👋</h1>
 
+![](https://komarev.com/ghpvc/?username=thyrexdev&style=flat-square)
+
 <h3 align="center">
 Backend-Focused Full Stack Engineer • Node.js • TypeScript • Microservices
 </h3>
 
 <p align="center">
-I build scalable backend systems, modern web applications, and production-ready software with a strong focus on clean architecture, performance, and developer experience.
+Backend-focused Full Stack Engineer passionate about building scalable systems, modern web applications, and production-ready software with Node.js, TypeScript, and Microservices.
 </p>
 
 <p align="center">
@@ -39,6 +41,16 @@ I build scalable backend systems, modern web applications, and production-ready 
 
 ---
 
+## Interests
+
+- Backend Engineering
+- System Design
+- Distributed Systems
+- Cloud Architecture
+- Performance Optimization
+
+---
+
 # 🛠 Tech Stack
 
 ### Backend
@@ -50,7 +62,7 @@ I build scalable backend systems, modern web applications, and production-ready 
 ### Frontend
 
 <p>
-<img src="https://skillicons.dev/icons?i=nextjs,react,tailwind,js,html,css" />
+<img src="https://skillicons.dev/icons?i=nextjs,react,tailwind,ts" />
 </p>
 
 ### Database & Storage
@@ -71,23 +83,17 @@ I build scalable backend systems, modern web applications, and production-ready 
 
 ## Rizlax
 
-A modern freelance marketplace built with a scalable microservices architecture.
+A production-ready freelance marketplace designed for scalability and reliability using a microservices architecture.
 
-### Highlights
+**Key Features**
 
-- Secure Authentication
 - Escrow Payment System
-- Real-time Chat
-- WebSockets
-- Redis Pub/Sub
+- Real-time Messaging
+- Authentication & Authorization
+- File Storage
 - Notification Service
-- Cloudflare R2 File Storage
-- PostgreSQL + Prisma
-- Admin Dashboard
 - Dispute Resolution
-- REST APIs
-- Production-ready Architecture
-
+- Admin Dashboard
 ---
 
 # 💼 What I Enjoy Building
@@ -109,6 +115,10 @@ A modern freelance marketplace built with a scalable microservices architecture.
 <p align="center">
 
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=thyrexdev&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thyrexdev&layout=compact&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=thyrexdev&show_icons=true&theme=tokyonight&hide_border=true"/>
 
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thyrexdev&layout=compact&theme=tokyonight&hide_border=true"/>
 
@@ -140,22 +150,12 @@ A modern freelance marketplace built with a scalable microservices architecture.
 
 # 📫 Let's Connect
 
-Portfolio
-
-👉 https://joe-dev.vercel.app
-
-LinkedIn
-
-👉 https://www.linkedin.com/in/youssefagharib/
-
-GitHub
-
-👉 https://github.com/thyrexdev
-
-Email
-
-👉 [your@email.com](mailto:youssefa.gharib@protonmail.com)
-
+| Platform | Link |
+|----------|------|
+| Portfolio | joe-dev.vercel.app |
+| LinkedIn | linkedin.com/in/youssefagharib |
+| GitHub | github.com/thyrexdev |
+| Email | youssefa.gharib@protonmail.com |
 ---
 
 <p align="center">

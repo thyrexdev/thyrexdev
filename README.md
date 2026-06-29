@@ -128,14 +128,13 @@ A modern freelance marketplace built with a scalable microservices architecture.
 - 📚 Learning System Design, Cloud, and DevOps
 - 🌍 Open to Backend & Full Stack opportunities
 
-# ⚙️ Favorite Technologies
+## Experience Highlights
 
-| Backend | Frontend   | Database      | DevOps |
-| ------- | ---------- | ------------- | ------ |
-| Node.js | Next.js    | PostgreSQL    | Docker |
-| Bun     | React      | Redis         | Linux  |
-| Express | Tailwind   | Prisma ORM    | Git    |
-| Hono    | TypeScript | Cloudflare R2 | GitHub |
+- Built a production-ready freelance marketplace
+- Designed a microservices architecture
+- Integrated secure escrow payment workflows
+- Developed real-time communication with WebSockets
+- Implemented authentication & authorization systems
 
 ---
 

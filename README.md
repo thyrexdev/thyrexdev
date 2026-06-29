@@ -1,3 +1,5 @@
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=140&color=0:0F172A,100:2563EB"/>
+
 <h1 align="center">Hi, I'm Youssef Atef 👋</h1>
 
 <p align="center">
@@ -25,7 +27,7 @@ Backend-focused Full Stack Engineer passionate about building scalable systems, 
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
-<a href="mailto:your@email.com">
+<a href="mailto:youssefa.gharib@protonmail.com">
 <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 </p>
@@ -53,18 +55,28 @@ Backend-focused Full Stack Engineer passionate about building scalable systems, 
 
 ---
 
+## 📈 Engineering Highlights
+
+- 🏗️ Built a production-ready freelance marketplace
+- ⚙️ Designed a microservices architecture with multiple services
+- 🔄 Developed real-time communication using WebSockets & Redis
+- 💳 Implemented secure escrow payment workflows
+- 📦 Integrated PostgreSQL, Prisma, Redis, and Cloudflare R2
+
+---
+
 # 🛠 Tech Stack
 
 ### Backend
 
 <p>
-<img src="https://skillicons.dev/icons?i=nodejs,bun,ts,express,prisma" />
+<img src="https://skillicons.dev/icons?i=nodejs,bun,ts,express,nest,prisma" />
 </p>
 
 ### Frontend
 
 <p>
-<img src="https://skillicons.dev/icons?i=nextjs,react,tailwind,ts" />
+<img src="https://skillicons.dev/icons?i=nextjs,react,tailwind" />
 </p>
 
 ### Database & Storage
@@ -163,3 +175,5 @@ A production-ready freelance marketplace designed for scalability and reliabilit
 <p align="center">
 Thanks for visiting 👋
 </p>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=120&color=0:0F172A,100:2563EB"/>

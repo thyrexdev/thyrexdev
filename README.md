@@ -120,42 +120,13 @@ A modern freelance marketplace built with a scalable microservices architecture.
 
 </p>
 
----
-
 # 🎯 Current Focus
 
-```ts
-const currentlyWorkingOn = {
-    backend: [
-        "Node.js",
-        "TypeScript",
-        "Microservices",
-        "Redis",
-        "PostgreSQL"
-    ],
-
-    frontend: [
-        "Next.js",
-        "React",
-        "Tailwind CSS"
-    ],
-
-    learning: [
-        "Distributed Systems",
-        "Cloud",
-        "System Design",
-        "DevOps"
-    ],
-
-    openTo: [
-        "Backend Engineer",
-        "Full Stack Engineer",
-        "Remote Opportunities"
-    ]
-};
-````
-
----
+- 🚀 Building scalable backend systems with Node.js & Bun
+- 🏗️ Designing microservices and distributed architectures
+- ⚡ Improving API performance and developer experience
+- 📚 Learning System Design, Cloud, and DevOps
+- 🌍 Open to Backend & Full Stack opportunities
 
 # ⚙️ Favorite Technologies
 
